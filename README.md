@@ -24,6 +24,14 @@ Check it out, the boilerplate is Open Source and MIT licensed.
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/CrystallizeAPI/crystallize-nextjs-boilerplate&env=CRYSTALLIZE_TENANT_IDENTIFIER&envDescription=Enter%20your%20own%20tenant%20identifier,%20or%20use%20the%20default:%20furniture)
 
+## Start a project
+
+<p align="center">
+<a href="https://console.platform.sh/projects/create-project?template=https://github.com/Jordan-Gilliam/ecom-template.git&utm_content=jordan_gilliam_crystalize&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
+    <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
+</a>
+</p>
+
 ## Getting Started
 
 You can use [Crystallize CLI][17] to bootstrap a project with this
